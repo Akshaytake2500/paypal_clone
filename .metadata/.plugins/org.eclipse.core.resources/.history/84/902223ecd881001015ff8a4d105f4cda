@@ -1,0 +1,5 @@
+package com.paypal.user_service.repository;
+
+public class UserRepository {
+
+}
